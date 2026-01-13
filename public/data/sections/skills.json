@@ -582,7 +582,34 @@
                             "text": "반응형 디자인을 위한 Bootstrap에 대한 좋은 이해."
                         }
                     }
+                },
+                {
+                    "id": 7,
+                    "img": "",
+                    "faIcon": "fa-brands fa-react",
+                    "faIconColors": {"bg": "", "fill": "#7952B3"},
+                    "date": {"year": 2021, "month": 2},
+                    "percentage": 90,
+                    "locales": {
+                        "en": {
+                            "title": "Next.js",
+                            "text": "Good understanding of Bootstrap for responsive design.",
+                            "level": ""
+                        },
+                        "es": {
+                            "text": "Buena comprensión de Bootstrap para diseño receptivo."
+                        },
+                        "fr": {
+                            "text": "Bonne compréhension de Bootstrap pour le design réactif."
+                        },
+                        "ko": {
+                            "text": "반응형 디자인을 위한 Bootstrap에 대한 좋은 이해."
+                        }
+                    }
                 }
+
+
+
             ]
         },
 
