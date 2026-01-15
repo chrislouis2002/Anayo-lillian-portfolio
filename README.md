@@ -1,4 +1,4 @@
-# [<img src="docs/assets/logo.png"> React Portfolio](https://ryanbalieiro.github.io/react-portfolio-template/) by Chris Louis
+# [<img src="docs/assets/logo.png"> React Portfolio](https://ryanbalieiro.github.io/react-portfolio-template/) by Lillian Anayo
 
 A sleek, futuristic portfolio template for developers – built with **React** and **Bootstrap 5**.
 
@@ -19,7 +19,7 @@ Here's a list of live versions of the template:
 
 | #     | Version             | Description                                             | URL                                                                     |
 |-------|---------------------|---------------------------------------------------------|-------------------------------------------------------------------------|
-| 🟢    | Chris Louis (default) | Latest deployment of the template here on GitHub pages. | [Preview](https://ryanbalieiro.github.io/react-portfolio-template/)     |
+| 🟢    | Lillian Anayo (default) | Latest deployment of the template here on GitHub pages. | [Preview](https://ryanbalieiro.github.io/react-portfolio-template/)     |
 | 🟣    | Emily Park          | An example of how the template can be customized.       | [Preview](https://ryansandbox.github.io/emily-park-react-portfolio/)    |
 | 🔵    | Michael Özkan       | Another example of how the template can be customized.  | [Preview](https://ryansandbox.github.io/michael-ozkan-react-portfolio/) |
 
@@ -95,7 +95,7 @@ Follow these additional tutorials to further enhance your portfolio with advance
 
 ## About
 
-This template was created by and is maintained by **[Chris Louis](https://ryanbalieiro.com/)**.
+This template was created by and is maintained by **[Lillian Anayo](https://ryanbalieiro.com/)**.
 
 It's based on the **[React](https://reactjs.org/)** framework created by Jordan Walke, and the **[Bootstrap](https://getbootstrap.com/)** framework created by Mark Otto and Jacob Thorton.
 
@@ -110,4 +110,4 @@ Additional frameworks and plugins used include:
 
 Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-agency/blob/master/LICENSE) license, providing complete freedom for utilization. Feel free to enhance and adapt it to suit your needs.
 
-Oh... and if you like this template, don't forget to **give it a ⭐** :)
+Oh... and if you like this template, don't forget to **give it a ⭐** :)# Anayo-lillian-portfolio
