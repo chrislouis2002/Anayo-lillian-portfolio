@@ -1,5 +1,5 @@
 /**
- * @author Chris Louis
+ * @author Lillian Anayo
  * @date 2025-05-10
  * @description This hook provides constants that are used throughout the application.
  */

@@ -8,8 +8,8 @@
 
     "preloaderSettings": {
         "enabled": true,
-        "title": "React <strong>Portfolio</strong>",
-        "subtitle": "by Chris Louis",
+        "title": "<strong>Portfolio</strong>",
+        "subtitle": "by Lillian Anayo",
         "logoOffset": {
             "right": 14,
             "top": 2,

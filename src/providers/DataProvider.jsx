@@ -1,5 +1,5 @@
 /**
- * @author Chris Louis
+ * @author Lillian Anayo
  * @date 2025-05-10
  * @description This provider is responsible for loading and providing the data for the application.
  */

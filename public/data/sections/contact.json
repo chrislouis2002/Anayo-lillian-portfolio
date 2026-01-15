@@ -97,8 +97,8 @@
                     "id":2,
                     "faIcon": "fa-solid fa-envelope",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "chris.louis.orm@gmail.com",
-                    "link": {"href": "mailto:chris.louis.orm@gmail.com", "tooltipString": "email_me"},
+                    "label": "anayolillian@gmail.com",
+                    "link": {"href": "mailto:anayolillian@gmail.com", "tooltipString": "email_me"},
                     "locales": {
                         "en": {"title": "E-mail"},
                         "ko": {"title": "이메일"}
@@ -108,7 +108,7 @@
                     "id": 3,
                     "faIcon": "fa-brands fa-linkedin",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "@chrislouis",
+                    "label": "@Anayolillian",
                     "link": {"href": "https://linkedin.com/in/", "tooltipString": "open_website"},
                     "locales": {
                         "en": {"title": "LinkedIn"},
@@ -119,7 +119,7 @@
                     "id": 4,
                     "faIcon": "fa-brands fa-facebook",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "Chris Louis",
+                    "label": "Lillian Anayo",
                     "link": {"href": "https://facebook.com/profiles/mark.choi.855/default", "tooltipString": "open_website"},
                     "locales": {
                         "en": {"title": "Facebook"},
@@ -130,8 +130,8 @@
                     "id": 5,
                     "faIcon": "fa-brands fa-instagram",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "@chrisy_c",
-                    "link": {"href": "https://instagram.com/", "tooltipString": "open_website"},
+                    "label": "@lillie.ana",
+                    "link": {"href": "https://www.instagram.com/lillie.ana?igsh=MXRweG83cWJ1eWNkZw==", "tooltipString": "open_website"},
                     "locales": {
                         "en": {"title": "Instagram"},
                         "ko": {"title": "인스타그램"}
@@ -141,8 +141,8 @@
                     "id": 6,
                     "faIcon": "fa-brands fa-tiktok",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "@chrislouis",
-                    "link": {"href": "https://tiktok.com/@markchoi", "tooltipString": "open_website"},
+                    "label": "@lilli3_anna",
+                    "link": {"href": "https://www.tiktok.com/@lilli3_anna?_r=1&_t=ZS-936F2Bisupg", "tooltipString": "open_website"},
                     "locales": {
                         "en": { "title": "TikTok" },
                         "ko": { "title": "틱톡" }

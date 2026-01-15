@@ -1,5 +1,5 @@
 /**
- * @author Chris Louis
+ * @author Lillian Anayo
  * @description Handy utilities to help manage JSON files within your npm scripts.
  */
 import {useNpmLogger} from "./_npm-log.js"

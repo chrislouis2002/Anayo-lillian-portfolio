@@ -1,5 +1,5 @@
 /**
- * @author Chris Louis
+ * @author Lillian Anayo
  * @description Use this script to create new articles.
  *
  * @usage

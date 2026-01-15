@@ -1,5 +1,5 @@
 /**
- * @author Chris Louis
+ * @author Lillian Anayo
  * @date 2025-05-10
  * @description This class is a wrapper for the article item data. It provides methods to parse and validate the data loaded from an article's list.
  */
